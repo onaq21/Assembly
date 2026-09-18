@@ -1,0 +1,9 @@
+*.lst
+*.s19
+*.s17
+*.obj
+*.hex
+*.bak
+.DS_Store
+Thumbs.db
+
