@@ -4,6 +4,10 @@
 *.obj
 *.hex
 *.bak
+*.com
+*.exe
+*.map
+*.tr
+TDCONFIG.TD
 .DS_Store
 Thumbs.db
-
